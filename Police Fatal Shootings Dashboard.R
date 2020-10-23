@@ -1,4 +1,4 @@
-#Kaggle Source - https://www.kaggle.com/mrmorj/data-police-shootings
+#Data Source - https://www.kaggle.com/mrmorj/data-police-shootings
 
 #import the libraries
 library(shiny)
